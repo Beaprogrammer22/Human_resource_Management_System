@@ -1,0 +1,12 @@
+C:\Users\Jitendra Bordiya\source\repos\NewRepo\HRMSApi\obj\Debug\net5.0\HRMSApi.csproj.AssemblyReference.cache
+C:\Users\Jitendra Bordiya\source\repos\NewRepo\HRMSApi\obj\Debug\net5.0\HRMSApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jitendra Bordiya\source\repos\NewRepo\HRMSApi\obj\Debug\net5.0\HRMSApi.AssemblyInfoInputs.cache
+C:\Users\Jitendra Bordiya\source\repos\NewRepo\HRMSApi\obj\Debug\net5.0\HRMSApi.AssemblyInfo.cs
+C:\Users\Jitendra Bordiya\source\repos\NewRepo\HRMSApi\obj\Debug\net5.0\HRMSApi.csproj.CoreCompileInputs.cache
+C:\Users\Jitendra Bordiya\source\repos\NewRepo\HRMSApi\bin\Debug\net5.0\HRMSApi.deps.json
+C:\Users\Jitendra Bordiya\source\repos\NewRepo\HRMSApi\bin\Debug\net5.0\HRMSApi.dll
+C:\Users\Jitendra Bordiya\source\repos\NewRepo\HRMSApi\bin\Debug\net5.0\ref\HRMSApi.dll
+C:\Users\Jitendra Bordiya\source\repos\NewRepo\HRMSApi\bin\Debug\net5.0\HRMSApi.pdb
+C:\Users\Jitendra Bordiya\source\repos\NewRepo\HRMSApi\obj\Debug\net5.0\HRMSApi.dll
+C:\Users\Jitendra Bordiya\source\repos\NewRepo\HRMSApi\obj\Debug\net5.0\ref\HRMSApi.dll
+C:\Users\Jitendra Bordiya\source\repos\NewRepo\HRMSApi\obj\Debug\net5.0\HRMSApi.pdb
